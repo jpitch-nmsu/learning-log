@@ -1,0 +1,13 @@
+# Virtual environment
+ll_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# Secrets
+.env
